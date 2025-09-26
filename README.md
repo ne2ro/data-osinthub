@@ -1,6 +1,7 @@
 # 🔍 OSINT Hub Data
 
 > **Community-driven repository of OSINT tools and resources**
+>
 > Curated collection of Open Source Intelligence tools organized by category
 
 [![Validation](https://img.shields.io/badge/validation-passing-brightgreen)](https://github.com/ne2ro/data-osinthub/actions)
